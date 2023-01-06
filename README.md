@@ -7,6 +7,8 @@
 
 - [Built with](#built-with)
 - [Author](#author)
+- [Links](#links)
+
 
 
 ### Built with
@@ -15,6 +17,10 @@
 - SCSS custom properties
 - FlexBox
 - Vanilla javascript
+
+### Links
+
+- Solution URL: [Solution URL here](https://frontend--prediction-webpage.pages.dev/)
 
 
 ## Author
